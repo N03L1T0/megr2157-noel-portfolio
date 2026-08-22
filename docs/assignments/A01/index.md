@@ -18,13 +18,13 @@ Professional Tone: Each individual project in the portfolio exudes a tone and im
 
 Portfolio 2: https://nhoong.github.io
 
-Navigability:
+Navigability: The formatting on this portfolio is concise and to-the-point. Everything is on a single page and is easily scrollable with the mouse wheel and readily have slideshows on each project section so navigating each project's photos and captions is seamless. Any information on this portfolio can be found in under 60 seconds with ease, it is seamless.
 
-Reproducibility:
+Reproducibility: There is only one project with the capability of being replicated. The owner's senior capstone project has a very detailed document on the process and steps taken to create their project. This could possibly be recreated by a colleague just with the help of this document.
 
-Evidence of Reasoning:
+Evidence of Reasoning: In each project section, there are detailed drawings and schematics for each project. For CAD models, there are different views and images that show each individual part, anong with a caption below it defining what the image is depicting. The portfolio not only shows the finalized products, but the steps that went alongside making it.
 
-Professional Tone:
+Professional Tone: The portfolio as a whole indeed has a professional tone. Each depiction of the projects, and the summary of the owner himself is formal and is informative. There isn't excess wordage in any of the sections, they are straightforward and get the point across professionally. I would turn this in to an employer.
 
 ## Decide
 
