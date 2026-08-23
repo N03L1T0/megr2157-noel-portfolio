@@ -1,10 +1,14 @@
-# A1 – Portfolio Analysis
+# A1 – Create Portfolio
+
+
 
 ## Objective
 Find two engineering portfolios on GitHub and analyze/critique the both of them for:
 Navigability, Reproducibility, Evidence of Reasoning, and Professional tone
 
 ## Analyze
+                                                     --- PORTFOLIO ANALYSIS ---
+
 Portfolio 1: https://fwachter.github.io
 
 Navigability: Although this page is straightfoward and consice, it lacks intuitivity in the sense of going through the different sections of the site. There are five buttons on the bottom that one must click to navigate each section, which took me longer than expected to figure out how to get off of the title section. Despite this issue, it nonetheless took less than 60 seconds to find and get information on the works the owener has on his page. 
@@ -25,6 +29,10 @@ Reproducibility: There is only one project with the capability of being replicat
 Evidence of Reasoning: In each project section, there are detailed drawings and schematics for each project. For CAD models, there are different views and images that show each individual part, anong with a caption below it defining what the image is depicting. The portfolio not only shows the finalized products, but the steps that went alongside making it.
 
 Professional Tone: The portfolio as a whole indeed has a professional tone. Each depiction of the projects, and the summary of the owner himself is formal and is informative. There isn't excess wordage in any of the sections, they are straightforward and get the point across professionally. I would turn this in to an employer.
+
+                                                        --- PRODUCT ANALYSIS ---
+
+Product in Question: Nail Clippers
 
 ## Decide
 
