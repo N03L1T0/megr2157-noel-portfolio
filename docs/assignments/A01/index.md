@@ -34,8 +34,13 @@ Professional Tone: The portfolio as a whole indeed has a professional tone. Each
 
 Product in Question: Nail Clippers
 
-## Decide
+Patent: https://patents.google.com/patent/US5522136A/en?q=(nail+clippers)&oq=nail+clippers
 
+a. The primary function of the product is to cleanly and effectively trim a fingernail down to a desired length with efficiency. There is a transfer of mechanical force from the fingertips through the lever, into the clamp and from the blades at the tip of the clamp, translating the force into the blades and through the fingernail. 
+
+b. The governing model of the product is the equation of conservation of torque in static equilibrium. There are two levers working in opposition, which the torque from both ends are translated into a net force which trims the nail. The assumption that both levers are perfectly rigid bodies, since the mathematics require no torque or force to be lost in the bending or deforming of either lever in the whole system to have perfect output. 
+
+c. 
 
 ## Communicate
 
