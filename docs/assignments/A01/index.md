@@ -40,7 +40,9 @@ a. The primary function of the product is to cleanly and effectively trim a fing
 
 b. The governing model of the product is the equation of conservation of torque in static equilibrium. There are two levers working in opposition, which the torque from both ends are translated into a net force which trims the nail. The assumption that both levers are perfectly rigid bodies, since the mathematics require no torque or force to be lost in the bending or deforming of either lever in the whole system to have perfect output. 
 
-c. 
+c. ![Main lever](IMG_5860.jpeg): The two holes at the top of the main lever body act as a guide for the pin piece to slide into. The two blades on this lever part act as the output for the force created by the torque of the lever system.
+
+![Lever Pin](IMG_5861.jpeg): This pin piece acts at the anchor that ties the whole system together and allows for the translation of force into the blades of the clippers. The bottom flat head keeps the main lever body from moving downward, and the lip at the top of the pin allows for the top lever to move freely.
 
 ## Communicate
 
