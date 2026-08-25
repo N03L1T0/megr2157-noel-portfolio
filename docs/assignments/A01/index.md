@@ -38,11 +38,19 @@ Patent: https://patents.google.com/patent/US5522136A/en?q=(nail+clippers)&oq=nai
 
 a. The primary function of the product is to cleanly and effectively trim a fingernail down to a desired length with efficiency. There is a transfer of mechanical force from the fingertips through the lever, into the clamp and from the blades at the tip of the clamp, translating the force into the blades and through the fingernail. 
 
-b. The governing model of the product is the equation of conservation of torque in static equilibrium. There are two levers working in opposition, which the torque from both ends are translated into a net force which trims the nail. The assumption that both levers are perfectly rigid bodies, since the mathematics require no torque or force to be lost in the bending or deforming of either lever in the whole system to have perfect output. 
+b. The governing model of the product is the equation of conservation of torque in static equilibrium. There are two levers working in opposition, which the torque from both ends are translated into a net force which trims the nail. The assumption that both levers are perfectly rigid bodies, since the mathematics require no torque or force to be lost in the bending or deforming of either lever in the whole system to have perfect output. The pin holding both levers together pull the design together, allowing for maximum leverage and torque translation when both ends of the levers are pushed together. 
 
 c. ![Main lever](IMG_5860.jpeg): The two holes at the top of the main lever body act as a guide for the pin piece to slide into. The two blades on this lever part act as the output for the force created by the torque of the lever system.
 
 ![Lever Pin](IMG_5861.jpeg): This pin piece acts at the anchor that ties the whole system together and allows for the translation of force into the blades of the clippers. The bottom flat head keeps the main lever body from moving downward, and the lip at the top of the pin allows for the top lever to move freely.
+
+![Adjustable lever](IMG_5862.jpeg): This lever at the top of the clipper acts as the key piece to allow the clippers to clip the nail. Being able to adjust this lever allows for the whole product to be closed with the lever facing downward, or in use facing upward. The torque mainly comes from the downward force on the edge of this lever which is translated from the opposite end where the lever pin is, which creates a clamping force with the bottom lever which allows for the nails to be clipped precisely.
+
+d. William Larisey is the founder of the patent of the nail clipper. The patent number is US5522136A.
+
+Two alternatives to the nail clippers are nail files, and nail scissors. The nail file takes an alternative approach to trimming the nail, opting for a way to break it down with a harder material to provide a less effective, but easier way to trim the nail, and open possibilities to shape the nail when at a desired length. The nail scissors also utilize a different approach, snipping small pieces of the nail off rather than clipping entire layers off, which can be more precise, but requires more cuts to cut the nail.
+
+The adjustable lever on the nail clipper surprised me with the ingenuity of its design. Compared to scissors, the option to press the lever into the other main lever allows for ease of use and very high torque translation, allowing for two finger use to create enough force to clip through any nail. The small design and use of leverage on this adjustable lever makes more sense than a traditional pair of scissors, and ends up being more compact as well.
 
 ## Communicate
 
