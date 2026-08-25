@@ -1,12 +1,9 @@
 <style>
   body, .sidebar, .main-content-wrap {
-    background-color: grey !important;
+    background-color: lightgrey !important;
     color: forestgreen !important;
   }
-  
-  a, h1, h2, h3 {
-    color: forestgreen !important;
-  }
+
 </style>
 
 # Noel Negron - MEGR 2157 – Design Portfolio
