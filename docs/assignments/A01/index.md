@@ -52,5 +52,8 @@ Two alternatives to the nail clippers are nail files, and nail scissors. The nai
 
 The adjustable lever on the nail clipper surprised me with the ingenuity of its design. Compared to scissors, the option to press the lever into the other main lever allows for ease of use and very high torque translation, allowing for two finger use to create enough force to clip through any nail. The small design and use of leverage on this adjustable lever makes more sense than a traditional pair of scissors, and ends up being more compact as well.
 
+## Decide
+
+1. The homepage of the portfolio should convey a general consensus of what the entire portfolio is going to bring the reader in one conscise page. A reader is looking for something impressive and something that will cause them to want more when first seeing the homepage. The reader should get an understanding of the level of professionalism of the portfolio's owner, and the level of expertise their products and works on the portfolio. The homepage also cannot be too vibrant or eccentric; something visually appealing allows for the reader to comfortably analyze the portfolio. For my homepage, I decided to change the colors of the top header and background from green and white to a forest green and grey.
 ## Communicate
 
