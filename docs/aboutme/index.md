@@ -1,2 +1,12 @@
 #About Me
-This is how to edit
+
+                          --- Noel Negron ---
+
+  My name is Noel Negron, I am 19, turning 20 years old and am a mechanical engineering student. My engineering is not the simple creation and optimization of products to further technology; my engineering is the representation of my likelyhood and compassion for the field I contribute to. Ever since childhood, I have been determined to get involved with the mechanical and aeronautical field, be it through playing with paper airplanes and model cars in my youth, I have kept these fields at the top of my interest. 
+  
+  The difficulty of engineering is negligible; those who have the drive to succeed and the work ethic behind it will succeed regardless. Failure comes to all, but quitting is only akin to those who will it. Mechanical engineering highlights the major developments of travel and transportation of humanity. Driving absurdly fast cars, or seeing massive planes always gave me questions on how did we as humans come up with such extravagant equipment. Becoming a mechanical engineer will not only solve this question of mine, but also provide me means of creating the very things I marvelled at as a child. 
+  
+  The engineer I envision and strive to become is one of great importance to the aeronautical world. I want to have an impact on taking flight and space travel to a level of unforseen heights. I want to take the level of air and space technology only seen in Sci-Fi entertainment and fabricate it in this physical world. On my current path, I am on my way to become an engineer capable of continuing this long journey led by countless other engineers of past and present, through the classes I take and opportunities I sieze in furthering my engineering portfolio and career.
+
+                    ---------------------
+To defend an engineering decision is to believe in the mathematics and physics behind your stance, and accept the weight that comes with said decision. An engineering decision can be as miniscule as changing the tolerance on a frame, and as important as changing the material to a supermassive machine that could potentially ruin or optimize the machine and affect the people who will use it. Making an engineering decision requires certainty and countless tests before finalizing it. I currently do not know how to defend an engineering position, as I have not sufficiently been placed into an environment that warrents such a decision. A choice like this requires expertise and experience, which I can only focus on the former, through my classes and internship opportunities.
