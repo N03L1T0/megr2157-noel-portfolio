@@ -12,7 +12,9 @@ Throughout this assignment, I was asked to derive, calculate, and model a truss 
 
  ![Truss Parameters](trussparameters.png)
 
-Within these given instructions, I created a simple truss system with 9 individual members, and 6 total connections, one roller, one pin connection, and two pin joints not including C and D.
+Within these given instructions, I created a simple truss system with 9 individual members, and 6 total connections, one roller, one pin connection, and two pin joints not including C and D. As I created my truss, I was tasked to make it statically determinate with a simple design. Within this next image is the design I finalized and free body diagram for it:
+
+![TRUSS DRAFT & FBD](IMG_6073.png)
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
