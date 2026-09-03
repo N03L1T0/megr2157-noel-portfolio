@@ -37,6 +37,8 @@ Alongside the final step of calculations for the pin, I scoured my statics textb
 ![pin shear calculations](IMG_6076.jpeg)
 
 After all of these calculations were complete, it was time to recreate my truss and pins inside of CREO Parametric. Through tons of trial and error, I ended up with a final truss design that fit nearly exactly to the parameters of my calculated truss. For the length and width of the truss bars, I took the cross-sectional area of the truss and assumed it was square, which meant the width and height were the same, allowing me to come up with a value of 21.55 millimeters. With this value for length and width, I utilized the extrude tool to create the trapezoid outline of the truss, and specific lengths and angles of triangle sketches along the backside of the truss to remove material to fit the exact proportions of the truss. The angle I calculated from my statics work was 36.87 degrees, which was also a staple to help me fit exact lengths to have each truss member be 21.55mm by 21.55mm and have the right length. The truss took me around 1.5 hours to complete. With the galvanized steel material selected, the system calculated the mass of the truss to be 12.32 Kg, which is pretty close to my 13.49 Kg calculations. I left the small disparity up to the system's calculation method and the way the truss was structured with overlapping pieces.  Below is the finished product:
+
+![truss cad](truss_cad.png)
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
