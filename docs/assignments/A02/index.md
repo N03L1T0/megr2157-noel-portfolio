@@ -64,5 +64,5 @@ The pins in my design are far more likely to fail than the steel truss framing. 
 
 Overall, this assignment taught me how an engineering problem is structured. There is no set direction for you to go in, and everything is found by trial and error by your own work. Having this experience opened my eyes to how I must think as a prospective engineer, and what my approach needs to be as I continue on my trek to becoming an engineer. I spent around 12 hours on this assignment in total.
 
-[Truss CREO File](2157_truss_noel.prt.zip)
-[Pin Creo File](2157_pin_noel.prt.zip)
+![Truss CREO File](2157_truss_noel.prt.zip)
+![Pin Creo File](2157_pin_noel.prt.zip)
