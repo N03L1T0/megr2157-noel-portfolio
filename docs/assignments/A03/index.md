@@ -61,3 +61,5 @@
 4. Lessons Learned -
 
    a. Throughout this assignment, I learned how annoying it is to try and troubleshoot a CAD system through different versions, but most importantly, how to use the live simulation tool in Creo Parametric to analyze the Von Misses stress and displacement map, as well as about the stress concentration factor for a hole in a flat bar in tension. Overall it was a fun assignment, and I spent around 3 hours total completing it, a lot shorter amount of time compared to the previous two assignments.
+
+[A3 Noel CAD File](a3_bar_noeln.prt.2)
