@@ -1,5 +1,7 @@
 # A3 – Parametric and FEA
 
+[A3 Noel CAD File](a3_bar_noeln.prt.2)
+
 ## Objective
 1. Parametrically design a bar in a CAD system (I'm using Creo Parametric) with an applied load of 300-500lbs. The max axial deflection of the bar is 0.009 inches. The bar will be made out of aluminum, with Young's Modulus from 8.5-11.5 msi.
 
@@ -62,4 +64,3 @@
 
    a. Throughout this assignment, I learned how annoying it is to try and troubleshoot a CAD system through different versions, but most importantly, how to use the live simulation tool in Creo Parametric to analyze the Von Misses stress and displacement map, as well as about the stress concentration factor for a hole in a flat bar in tension. Overall it was a fun assignment, and I spent around 3 hours total completing it, a lot shorter amount of time compared to the previous two assignments.
 
-[A3 Noel CAD File](a3_bar_noeln.prt.2)
