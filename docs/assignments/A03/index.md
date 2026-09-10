@@ -27,7 +27,8 @@
 
 2. Utilizing the live simulation feature on Creo Parametric was a bit of a struggle. Since there was a different method I had to use to find and use the simulate tool compared to the embedded video we were given, I had to resort to using Google Gemini to help me through it. My prompt was "The simulate tool is greyed out under applications in Creo Parametric, what can I do to use simulate?" and the response told me about my current version and the "Live Simulation" tool that was on my header that I could use instead, and from there I figured the rest out. Below this are links to my reported results from my FEA of the Von Misses Stress map, and the Deformations map:
 
-  *insert files*
+[deformations report](deform_report_noel.html)
+[Von Mises Report](von_miss_report_noel.html)
 
   c. The maximum stress I calculated was 3200 psi, or 3.2 ksi. The safety factor, calculated with Sy= 40ksi, was 12.5, shown in my calculations below:
 
