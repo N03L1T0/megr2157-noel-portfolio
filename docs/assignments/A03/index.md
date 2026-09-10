@@ -1,6 +1,6 @@
 # A3 – Parametric and FEA
 
-[A3 Noel CAD File](a3_bar_noeln.prt.2)
+[A3 Noel CAD File](a3_bar_noeln.prt.zip)
 
 ## Objective
 1. Parametrically design a bar in a CAD system (I'm using Creo Parametric) with an applied load of 300-500lbs. The max axial deflection of the bar is 0.009 inches. The bar will be made out of aluminum, with Young's Modulus from 8.5-11.5 msi.
