@@ -22,12 +22,35 @@
   c. In Creo Parametric, I inputted my values of height=0.25in, width=0.5in, E=8.5x10^6 psi, max deflection=0.009in, and axial load=400lbs, which got me a length of 23.90625, which is exactly the value I calculated on my paper. Below are images of my parameters and proof of length on Creo Parametric:
 
   *insert both pictures*
-  
+
+2. Utilizing the live simulation feature on Creo Parametric was a bit of a struggle. Since there was a different method I had to use to find and use the simulate tool compared to the embedded video we were given, I had to resort to using Google Gemini to help me through it. My prompt was "The simulate tool is greyed out under applications in Creo Parametric, what can I do to use simulate?" and the response told me about my current version and the "Live Simulation" tool that was on my header that I could use instead, and from there I figured the rest out. Below this are links to my reported results from my FEA of the Von Misses Stress map, and the Deformations map:
+
+  *insert files*
+
+  c. The maximum stress I calculated was 3200 psi, or 3.2 ksi. The safety factor, calculated with Sy= 40ksi, was 12.5, shown in my calculations below:
+
+  *insert calc*
+
+3. Design Reflection
+
+   a. The axial deflection from my hand calculation was exactly 0.009 inches, and the FEA calculated a value of 0.0089976. The percent difference, shown by my calculations below, was 0.027 percent. These values are nearly identical. Before this nearly exact calculation, I had ran into an issue with my material properties and units. I had firstly gotten a value of 1.9*10^-5, which is nowhere near 0.009 inches. I realized my force units were in lbm, when they were supposed to be in lbf. Changing this unit for the force brought my value to what it is now.
+
+     iii. I would trust the simulation's result more for this design due to its precision to 4 more decimal places, which to me seems way more precise and therefore effective in its purpose compared to the 3 decimal place value of the handwritten deflection.
+
+  b. With the calculated stress concentration factor (Kt), I got a value of 2.51. With my nominal stress away from the hole, the peak stress I calculated was 10.04 ksi. With this value, the safety factor I calculated was 3.98, which is greater than 1, which means it would still pass my safety factor, although it dropped from 12.5, which is a pretty decent drop compared to the rest of the bar. This would become a significantly weaker point.
 
 
 
 ## Decide
 
+2157: Modify Design Parameters
+
+  a. I am going to change the width, height and load of the bar to 0.75in, 0.15in, and 325lbs in that order. The thickness is the same as the height. I assume the bar length is going to change due to different calculations with the load and cross sectional area.
+
+  b. After I calculated, the length did change, specifically to 26.480769 inches. This is in line with my assumption that the length of the bar would change.
 
 ## Communicate
 
+4. Lessons Learned -
+
+   a. Throughout this assignment, I learned how annoying it is to try and troubleshoot a CAD system through different versions, but most importantly, how to use the live simulation tool in Creo Parametric to analyze the Von Misses stress and displacement map, as well as about the stress concentration factor for a hole in a flat bar in tension. Overall it was a fun assignment, and I spent around 3 hours total completing it, a lot shorter amount of time compared to the previous two assignments.
