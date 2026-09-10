@@ -13,6 +13,17 @@
 
 1. Parametric  Design -
 
+  a. The values of height and width I chose was 0.25in, 0.5in, in that order. 
+
+  b. According to my elongation equation, I derived the length of 23.90625 inches from the equation displayed below:
+
+  *insert picture*
+
+  c. In Creo Parametric, I inputted my values of height=0.25in, width=0.5in, E=8.5x10^6 psi, max deflection=0.009in, and axial load=400lbs, which got me a length of 23.90625, which is exactly the value I calculated on my paper. Below are images of my parameters and proof of length on Creo Parametric:
+
+  *insert both pictures*
+  
+
 
 
 ## Decide
