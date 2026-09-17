@@ -19,7 +19,7 @@ my static equilibrium, and got to my thickness values of stress, being 10.93mm a
 2. Figure 2:
    a. Figure two was a little confusing, as I had to think about how to structure my free body diagram. Since the long length of the bar was attached to a rigid wall, I wondered where to put the moment reactions. I ended up leaving one at the top of the beam, and the translated moment of the bottom of the bar from figure 1, as shown in my free body diagram below. In calculating the thickness, I got a stress thickness of 10.93 and 9.16 for deformation. There is a problem I ran into later on, while structuring my design in CAD. I used the thickness of 10.93mm. Here is my work shown below:
 
-![Figure 2 Work](ING_6366.jpeg)
+![Figure 2 Work](IMG_6366.jpeg)
 
 4. Creo CAD Modeling:
    a. As I entered my dimensions and sketches into Creo Parametric, I extruded my beams and got the baseline shape and geometry. Note that the length of the figure 1 beam is still 38mm. When I went to add the diameter of the motor mount on the top plane of the figure 1 beam, there was no room to fit the diameter hole and the thickness of the figure 2 beam on top. Here is a photo of my problem:
