@@ -28,6 +28,8 @@ my static equilibrium, and got to my thickness values of stress, being 10.93mm a
 4. Creo CAD Modeling:
    a. As I entered my dimensions and sketches into Creo Parametric, I extruded my beams and got the baseline shape and geometry. Note that the length of the figure 1 beam is still 38mm. When I went to add the diameter of the motor mount on the top plane of the figure 1 beam, there was no room to fit the diameter hole and the thickness of the figure 2 beam on top. Here is a photo of my problem:
 
+![Creo Issue](IMG_6369.jpeg)
+
    b. I decided to add an extra 10.93mm of length to the length of beam 1, which made me go back and redo all of my calculations for the thickness of each beam. I ended up with a thickness of 11.79mm for beam 1, and a thickness of 16.81 for beam 2. Here below are my revised calculations:
 
   c. After I fixed these mistakes, I had enough room to insert my diameter hole in the top plane with ample clearance (2.06mm) on each edge of the hole. After, I added the screw holes into the front plane of beam 2, with a diameter of 3.4 as given to us from the document. I had them 6mm from each side of the square-prism beam. Here is the finalized Creo design before it is made into a drawing:
