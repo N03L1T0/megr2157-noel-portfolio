@@ -32,6 +32,9 @@ my static equilibrium, and got to my thickness values of stress, being 10.93mm a
 
    b. I decided to add an extra 10.93mm of length to the length of beam 1, which made me go back and redo all of my calculations for the thickness of each beam. I ended up with a thickness of 11.79mm for beam 1, and a thickness of 16.81 for beam 2. Here below are my revised calculations:
 
+![New calculations 1](IMG_6371.jpeg)
+![New Calculations 2](IMG_6373.jpeg)
+
   c. After I fixed these mistakes, I had enough room to insert my diameter hole in the top plane with ample clearance (2.06mm) on each edge of the hole. After, I added the screw holes into the front plane of beam 2, with a diameter of 3.4 as given to us from the document. I had them 6mm from each side of the square-prism beam. Here is the finalized Creo design before it is made into a drawing:
 
 
