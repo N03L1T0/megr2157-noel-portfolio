@@ -14,12 +14,14 @@
   B. I started off by firstly formulating the length and free body diagram of the figure 1 of the motor mount. It was stated that it had to be a cantilever beam, with a safety factor of 3. I labeled my unknowns, did
 my static equilibrium, and got to my thickness values of stress, being 10.93mm and 11.79mm, in order of stress and deformation. Since deformation thickness had a higher value, that was the thickness value I went for with my entire figure. I assumed that the beam's length was equal to its width, making L and B equal to eachother. This allowed me to only have to solve for thickness in my process. Here is my work shown:
 
-*insert fig 1 photo*
+![Figure 1 Work](IMG_6367.jpeg)
 
 2. Figure 2:
    a. Figure two was a little confusing, as I had to think about how to structure my free body diagram. Since the long length of the bar was attached to a rigid wall, I wondered where to put the moment reactions. I ended up leaving one at the top of the beam, and the translated moment of the bottom of the bar from figure 1, as shown in my free body diagram below. In calculating the thickness, I got a stress thickness of 10.93 and 9.16 for deformation. There is a problem I ran into later on, while structuring my design in CAD. I used the thickness of 10.93mm. Here is my work shown below:
 
-3. Creo CAD Modeling:
+![Figure 2 Work](ING_6366.jpeg)
+
+4. Creo CAD Modeling:
    a. As I entered my dimensions and sketches into Creo Parametric, I extruded my beams and got the baseline shape and geometry. Note that the length of the figure 1 beam is still 38mm. When I went to add the diameter of the motor mount on the top plane of the figure 1 beam, there was no room to fit the diameter hole and the thickness of the figure 2 beam on top. Here is a photo of my problem:
 
    b. I decided to add an extra 10.93mm of length to the length of beam 1, which made me go back and redo all of my calculations for the thickness of each beam. I ended up with a thickness of 11.79mm for beam 1, and a thickness of 16.81 for beam 2. Here below are my revised calculations:
