@@ -21,6 +21,10 @@ my static equilibrium, and got to my thickness values of stress, being 10.93mm a
 
 ![Figure 2 Work](IMG_6366.jpeg)
 
+   b. I was tasked with creating an isometric drawing before creating my design in CAD. Here is my isometric drawing:
+
+![Isometric Drawing](IMG_6386.jpeg)
+
 4. Creo CAD Modeling:
    a. As I entered my dimensions and sketches into Creo Parametric, I extruded my beams and got the baseline shape and geometry. Note that the length of the figure 1 beam is still 38mm. When I went to add the diameter of the motor mount on the top plane of the figure 1 beam, there was no room to fit the diameter hole and the thickness of the figure 2 beam on top. Here is a photo of my problem:
 
