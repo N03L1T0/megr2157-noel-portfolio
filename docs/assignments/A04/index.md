@@ -50,3 +50,6 @@ my static equilibrium, and got to my thickness values of stress, being 10.93mm a
 ## Communicate
 
 This assignment took me about 6 hours inbetween being sick and fighting other priorities. It would have been much faster and easier if I wasn't in poor physical health.
+
+[A4 Motor Mount Part](a4_mm_noel.prt.zip)
+[A4 Sheet](a4_mm_nn.pdf)
