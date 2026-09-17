@@ -37,6 +37,7 @@ my static equilibrium, and got to my thickness values of stress, being 10.93mm a
 
   c. After I fixed these mistakes, I had enough room to insert my diameter hole in the top plane with ample clearance (2.06mm) on each edge of the hole. After, I added the screw holes into the front plane of beam 2, with a diameter of 3.4 as given to us from the document. I had them 6mm from each side of the square-prism beam. Here is the finalized Creo design before it is made into a drawing:
 
+![fixed issue](IMG_6375.jpeg)
 ![final creo design](IMG_6376.jpeg)
 
 ## Decide
@@ -44,7 +45,7 @@ my static equilibrium, and got to my thickness values of stress, being 10.93mm a
 3. Creo Drawing(2157):
    a. After finishing my Creo design, I was tasked with creating a drawing with ASME proportions and adequate views enough to allow someone to recreate my design without having to open the design file itself. I added every dimension I needed to, without any overlap and with ample space to read and see where everything is marked and placed with hidden lines. Here is my drawing sheet:
 
-![creo
+![creo sheet](image_2026-09-17_012420078.png)
 
 ## Communicate
 
