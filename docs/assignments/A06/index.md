@@ -29,3 +29,8 @@ Above is the parametrically designed link I created using my A5 work, plus an ex
 
 Overall, this assignment combined with A5 took me around 12 hours total. A5 took the majority of the time, while this was on the easier end. This assignment itself took me only two hour between the parametric designs, drawings, and writing the review. This whole segment of assignments was fun and opened my eyes to the reality of manufacturing and tolerances, along with the importance of finding the higher of the stress and strain calculations to find the best dimensions for a part.
 
+[A5 Bracket Design](a5bracket_noel.prt.zip)
+[A5 Bracket Drawing](bracketdraw_noel.drw.zip)
+[A5 Link Design](a5link_noel.prt.zip)
+[A5 Link Drawing](a5linkdraw_noel.prt.zip)
+
