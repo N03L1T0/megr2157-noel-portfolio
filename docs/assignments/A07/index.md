@@ -28,3 +28,6 @@ The objective of this assignment involves the repeated use of a finite element a
 ## Communicate
 Overall, this assignment was a very engaging spin on finite element analyses. Having to change specific designs without any guidance to see for ourselves how to get a specific mesh convergence was quite the challenge, but also quite fun to maneuver around and figure out our own unique ways of getting closer to the value. Having to use the analysis and simulations to find out the max stress, deformation, mass, and safety factor was different depending on the software used, as my friends who used Solidworks compared to Creo, or any other software had different issues in finding their own values. I spent around 4.5 hours on this assignment, and it was one of the easier ones compared to the last 6 I've done thus far. In Creo Parametric, I could not find anything related to numbers of elements when simulating the stress and deformation analyses, so I had to forgo it in the whole assignment. Otherwise, it was smooth and pretty intuitive to finish. I learned that removing or changing the dimensions of some aspects of a part can drastically change the safety factor and max stress/deformation, and its not always for the better.
 
+[a5 link](a5link_noel.prt.zip)
+[a5 bracket](a5bracket_noel.prt.zip)
+
