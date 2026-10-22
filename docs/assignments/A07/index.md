@@ -12,10 +12,13 @@ The objective of this assignment involves the repeated use of a finite element a
 *insert stress & strain analysis 3*
 
 ## 2157 Link Design
-
-
-## Decide
-
+1. For the first run of the link's design, I did not change anything to get a guage of what numbers I must base my changes off of. The initial max stress is 0.4127 PSI, the max deformation is 1.8676e-08 inches, mass of 4.6708725e-04 LBF SEC^2 / IN, and safety factor of an insane 87230.43, which seems quite insane. Below are the results:
+*insert link analysis 1*
+2. For the second run of the link's design, I decided to take some of the middle material on the sides of the link out of the link, to decrease overall weight and material usage in the product. This gave a max stress of 0.4679 PSI, max deformation of 2.244e-08 inches, a mass of 4.3720780e-04 LBF SEC^2 / IN, and a safety factor of 76939, which is ever so closer to a 1 than the previous SF was. This led to a mesh convergence of 13%, which seems alright for the amount of material I took out of the product. Below are the results:
+*insert link analysis 2*
+3, For the third run of the link's design, I took away the chunks of removed materials, and added two holes inside the middle of the link. This led to a new mass of 4.1920000e-04 LBF SEC^2 / IN, max stress of 0.5092 PSI, max deformation of 2.4139e-08 inches, and safety factor of 18331, which is a few magnitudes closer to 1 than the previous 2 designs. This led to me calculating a mesh convergence of 23%, which is even further than the last one from 7%. Below are the results:
+*insert link analysis 3*
 
 ## Communicate
+Overall, this assignment was a very engaging spin on finite element analyses. Having to change specific designs without any guidance to see for ourselves how to get a specific mesh convergence was quite the challenge, but also quite fun to maneuver around and figure out our own unique ways of getting closer to the value. Having to use the analysis and simulations to find out the max stress, deformation, mass, and safety factor was different depending on the software used, as my friends who used Solidworks compared to Creo, or any other software had different issues in finding their own values. I spent around 4.5 hours on this assignment, and it was one of the easier ones compared to the last 6 I've done thus far. In Creo Parametric, I could not find anything related to numbers of elements when simulating the stress and deformation analyses, so I had to forgo it in the whole assignment. Otherwise, it was smooth and pretty intuitive to finish. I learned that removing or changing the dimensions of some aspects of a part can drastically change the safety factor and max stress/deformation, and its not always for the better.
 
