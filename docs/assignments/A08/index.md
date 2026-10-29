@@ -39,7 +39,7 @@ This assignment was not too difficult in terms of actual work, but the initial p
 [inner shaft drawing](a8inshaft.drw.zip)
 [gearbox drawing](a8box.drw.zip)
 [gearbox lid drawing](a8boxlid.drw.prt.zip)
-[Inner Bearing](a8_gearbox.prt.zip)
+[Inner Bearing](6391k111_oil-embedded_841_bronz.prt.zip)
 [Outer Bearing](6391k131_oil-embedded_841_bronz.prt.zip)
 [Inner Gear](7880k19_metal_gear_-_20_degree_.prt.zip)
 [Outer Gear](7880k24_metal_gear_-_20_degree_.prt.zip)
