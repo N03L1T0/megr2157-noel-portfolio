@@ -79,6 +79,7 @@ Overall, this two-part assignment taught us the importance of tolerances, materi
 <img width="550" height="850" alt="Screenshot 2026-11-19 005201" src="https://github.com/user-attachments/assets/99a32547-8110-4c3a-ab0e-3d397b56233b" />
 
 [tslot.prt.zip](https://github.com/user-attachments/files/35073502/tslot.prt.zip)
+[bill of materials](bom.xlsx)
 
 [tslota11.drw.zip](https://github.com/user-attachments/files/35073504/tslota11.drw.zip)
 
